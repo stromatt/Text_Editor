@@ -1,7 +1,16 @@
 ## Python text editor
 
+### Dependencies
+    Python3
+    
+    Pandas
+    Matplotlibs
+    
+
 ### Description
 tbd
 
 ### TODO
-tbd
+[] Undo Tree
+[] to-do list
+[] Custom statistics
